@@ -1,0 +1,7 @@
+venv/
+runs/
+datasets/
+*.pt
+*.mp4
+__pycache__/
+.env
